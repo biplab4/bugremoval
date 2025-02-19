@@ -1,1 +1,1 @@
-.\test.py:1:1: E999 SyntaxError: source code string cannot contain null bytes
+.\test.py:4:4: E999 IndentationError: unexpected indent
